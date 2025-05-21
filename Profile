@@ -1,0 +1,5 @@
+🔰 Store Name: Manlung Wear
+🎨 Theme: Clean + stylish (we’ll use black, white, and yellow unless you say otherwise)
+🛍️ Layout: Product grid — images, names, prices
+💬 Order Method: WhatsApp "Order Now" button
+🌐 Hosting: GitHub Pages
